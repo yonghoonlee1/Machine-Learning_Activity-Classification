@@ -1,8 +1,8 @@
 # Activity-Classification-Challenge
 
-연세대학교 대학원 수업 Machine Learning and Pattern Reognition 에서 진행된 프로젝트 Challenge 입니다.
+연세대학교 대학원 수업 Machine Learning and Pattern Reognition 에서 진행된 프로젝트 Challenge 
 
-6가지 Activity는 다음과 같습니다.
+6가지 Activity 분류
 
 - Class 1: Walking
 - Class 2: Walking upstairs
@@ -11,7 +11,7 @@
 - Class 5: Standing
 - Class 6: Laying
 
-스마트폰의 가속도계와 자이로스코프로 측정된 데이터로 진행되었습니다.
+스마트폰의 가속도계와 자이로스코프로 측정된 데이터로 진행
 
 * Train Data 
   - 총 6969개 
