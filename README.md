@@ -22,11 +22,7 @@
   - 데이터 1개 당 128X6 매트릭스 포함 : 6개 정보(Accelerations X, Y, Z 방향 + angular velocities X, Y, Z 방향)의 128 Samples
   - 라벨링 X
 
-* Schedule
-  - 2020.6.1 : 프로젝트 시작
-  - 2020.6.18 23시59분 : 제출 데드라인
-
 * 활용 모델 : Convolutional Neural Networks
 
-* 결과: 9등 (약 40명 수강생 중, 기준: 정확도) 
+
 
